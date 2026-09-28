@@ -1,0 +1,13 @@
+# Environment / IDE
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+# Build output
+build/
+dist/
+*.spec
+
+# Generated test data (python tools/make_test_data.py)
+test_data/

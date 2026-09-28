@@ -1,0 +1,11 @@
+# App
+numpy
+miniaudio
+customtkinter
+
+# Building the .exe
+pyinstaller
+
+# Dev tools (test data + icon)
+pillow
+lameenc
